@@ -1,2 +1,3 @@
-# resume
-My resume from Complete Web Development Course
+#Project2
+My project using only HTMl & CSS
+
