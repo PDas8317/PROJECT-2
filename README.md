@@ -1,3 +1,3 @@
 #Project2
-My project using only HTMl & CSS
+HTMl & CSS are used to make this project
 
